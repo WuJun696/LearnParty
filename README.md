@@ -1,2 +1,2 @@
 # LearnParty
-好学派
+- v0.1
